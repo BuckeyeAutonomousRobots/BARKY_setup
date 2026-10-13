@@ -1,0 +1,8 @@
+{
+  "folders": [{"path": "."}],
+  "settings": {
+    "files.associations": {"*.h": "cpp"},
+    "files.exclude": {"**/__pycache__": true},
+    "search.exclude": {"**/.pio": true, "ros2_ws/build": true, "ros2_ws/install": true, "ros2_ws/log": true}
+  }
+}
