@@ -1,2 +1,2 @@
 # BARKY_setup
-setup files for BARKY 
+Setup files for BARKY 
